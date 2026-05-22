@@ -1,26 +1,6 @@
-# Dependencies
+# Dependency directories
 node_modules/
-**/node_modules/
-/.pnp
-.pnp.js
-
-# Testing
-/coverage
-
-# Production builds
-build/
-dist/
-frontend/build/
-backend/dist/
-
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-backend/.env
-frontend/.env
+jspm_packages/
 
 # Logs
 logs
@@ -28,75 +8,20 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-lerna-debug.log*
-.pnpm-debug.log*
 
-# OS files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+# Environment variables
+.env
+.env.test
+.env.production
+.env.local
+.env.*.local
 
-# IDE
+# IDEs and editors
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
-.project
-.classpath
-.settings/
-*.sublime-project
-*.sublime-workspace
 
-# Temporary files
-*.tmp
-*.temp
-.cache/
-.parcel-cache/
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Optional stylelint cache
-.stylelintcache
-
-# Yarn
-.yarn/cache
-.yarn/unplugged
-.yarn/build-state.yml
-.yarn/install-state.gz
-.pnp.*
-
-# MongoDB
-*.mongodb
-
-# Backup files
-*.bak
-*.backup
-*.old
-
-# Documentation temporaire
-*.md.backup
-
-# Uploads (images de produits, etc.)
-backend/uploads/
-uploads/
-# Documentation and Project Files
-rapport/
-reference/
-
-# New frontend projects node_modules
-frontend-admin/node_modules/
-frontend-client/node_modules/
-frontend-admin/build/
-frontend-client/build/
-
-# Temp scripts
-copy_frontends.ps1
+# OS files
+.DS_Store
+Thumbs.db
