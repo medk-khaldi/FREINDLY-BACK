@@ -1,0 +1,365 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Chicorée soluble",
+      "price": "20.990",
+      "brand": "BRAVA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/4/0/4009041105190.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble",
+      "price": "21.490",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003643464-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble 100% pur",
+      "price": "26.450",
+      "brand": "GOLDEN COFFEE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8431610020874-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble 100% pur",
+      "price": "8.190",
+      "brand": "GOLDEN COFFEE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8431610020881-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble Ricoré",
+      "price": "18.990",
+      "brand": "NESTLÉ",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/7/6/7613033332883-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble Ricoré",
+      "price": "13.090",
+      "brand": "NESTLÉ",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/7/6/7613033634109-1_3.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café Intense N°8",
+      "price": "14.740",
+      "brand": "GOLDEN COFFEE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8431610021420-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café Harmonieux N°6",
+      "price": "14.740",
+      "brand": "GOLDEN COFFEE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8431610021444-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble Gold",
+      "price": "17.490",
+      "brand": "GOLDEN COFFEE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8431610020928-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café Extrême N°10",
+      "price": "14.740",
+      "brand": "GOLDEN COFFEE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8431610021437-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chocolat en poudre instantané",
+      "price": "2.330",
+      "brand": "SAÏD",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194005420452-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Cacao en poudre sans sucre Mille Recettes",
+      "price": "8.690",
+      "brand": "SAÏD",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194005441068-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chocolat en poudre instantané Chocoline",
+      "price": "4.510",
+      "brand": "SAÏD",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194005413041-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chocolat en poudre instantané Chocoline",
+      "price": "7.580",
+      "brand": "SAÏD",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194005413058-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Cacao en poudre sans sucre",
+      "price": "8.700",
+      "brand": "SPIPA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194009710252-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chocolat en poudre instantané",
+      "price": "3.790",
+      "brand": "SPIPA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194009710504-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chocolat en poudre instantané",
+      "price": "2.100",
+      "brand": "SPIPA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194009710801-2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chocolat en poudre instantané",
+      "price": "3.500",
+      "brand": "SAÏD",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194005420049-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café en grains chicorée torréfiée",
+      "price": "7.300",
+      "brand": "LEROUX",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/3/0/3067140035320-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble chicorée",
+      "price": "18.490",
+      "brand": "BRAVA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/4/0/4009041100812-1_7.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble chicorée",
+      "price": "11.290",
+      "brand": "BRAVA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/4/0/4009041102663.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chicorée soluble",
+      "price": "21.590",
+      "brand": "GOLDEN COFFEE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8431610021468-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chicorée soluble",
+      "price": "12.440",
+      "brand": "GOLDEN COFFEE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8431610021079-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Préparation de chocolat chaud caramel",
+      "price": "1.100",
+      "brand": "DR.OETKER",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191402803208_-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Préparation de chocolat chaud banane",
+      "price": "1.100",
+      "brand": "DR.OETKER",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191402803192-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble 2en1",
+      "price": "1.340",
+      "brand": "KENTCAFE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/6/8694587126080-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble Nescafé Classic",
+      "price": "20.250",
+      "brand": "NESCAFE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6111018903185-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble Nescafé Classic",
+      "price": "27.790",
+      "brand": "NESCAFE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6111018903208jpg.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble",
+      "price": "14.790",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003643143-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble",
+      "price": "9.300",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003643440-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble",
+      "price": "16.470",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003643457-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble Délice",
+      "price": "8.700",
+      "brand": "BEN YEDDER",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003762325.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble Délice",
+      "price": "16.470",
+      "brand": "BEN YEDDER",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003762332.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble Délice",
+      "price": "28.460",
+      "brand": "BEN YEDDER",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003762349.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble Nescafé Classic",
+      "price": "11.450",
+      "brand": "NESCAFE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6111018903161-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café turc instantané sans sucre",
+      "price": "1.250",
+      "brand": "KENTCAFE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/6/8694587139011-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café L'Espresso Arabica",
+      "price": "21.900",
+      "brand": "TROMBETTA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/0/8001687040039-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café moulu Dégustation",
+      "price": "18.660",
+      "brand": "GRAND MÈRE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/7/8714599412190-1_.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café Espresso Arabica",
+      "price": "16.830",
+      "brand": "NERO NOBILE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/0/8033993874480-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café turc pur",
+      "price": "4.965",
+      "brand": "ELLOUZE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194009521025_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café moulu carte noir original",
+      "price": "21.000",
+      "brand": "CARTE NOIRE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/7/8714599310700.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chocoline en poudre instantanée",
+      "price": "3.150",
+      "brand": "SAÏD",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194005413096.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café pur arôme intense",
+      "price": "9.250",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003612088.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café arabica d'Ethiopie",
+      "price": "19.970",
+      "brand": "BEN YEDDER",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/2/8/2823883000000_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café grain Dolce en vrac",
+      "price": "19.863",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/2/8/2824492000000.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble",
+      "price": "7.540",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003623602.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café pur 100% Arabica intense",
+      "price": "16.900",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003600900-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café pur raffiné",
+      "price": "16.900",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003600870-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café pur décaféiné",
+      "price": "16.900",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003600887_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café 100% arabica colombie",
+      "price": "18.420",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003600894-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Capsules de café crema ROVI",
+      "price": "12.640",
+      "brand": "CAFE ROVI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194088511153_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble fine mousse",
+      "price": "11.890",
+      "brand": "MAXWELL HOUSE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/0/1/011_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café Nescafé Gold",
+      "price": "16.690",
+      "brand": "NESCAFE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8445290204417_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble",
+      "price": "13.160",
+      "brand": "BONDIN",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003623602_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble",
+      "price": "7.790",
+      "brand": "NESCAFE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6111018101185.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café en capsules l'espresso",
+      "price": "18.900",
+      "brand": "TROMBETTA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/0/8001687040015.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café soluble aggloméré",
+      "price": "7.900",
+      "brand": "CARREFOUR",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/5/9/5901583412004.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chicorée soluble doypack",
+      "price": "16.310",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191327900532.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Chicorée soluble doypack",
+      "price": "9.180",
+      "brand": "BRAVA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191327900525.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Café moulu filtre pur",
+      "price": "4.965",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191431900039.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}

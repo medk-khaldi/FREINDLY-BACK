@@ -1,0 +1,29 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Eau minérale GARCI",
+      "price": "0.620",
+      "brand": "GARCI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194001800524-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Eau gazéifiée GARCI",
+      "price": "0.480",
+      "brand": "GARCI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194001800630-1_1_1_.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Eau gazéifiée JEKTISS",
+      "price": "0.450",
+      "brand": "JEKTISS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194005660377-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Eau Gazéifiée JEKTISS",
+      "price": "0.670",
+      "brand": "JEKTISS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194005660148-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}

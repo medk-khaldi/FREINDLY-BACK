@@ -1,0 +1,41 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Fromage Jockey nature sucré",
+      "price": "0.920",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61941304-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de fromages blancs frais Danino nature sucré",
+      "price": "6.830",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003802687-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Fromage Whey pro protéines goût framboise",
+      "price": "5.990",
+      "brand": "MAJESTE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191436201032_1_1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Fromage Whey pro protéines goût café",
+      "price": "6.290",
+      "brand": "MAJESTE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191436201049_1_1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Fromage Whey pro protéines goût vanille",
+      "price": "5.900",
+      "brand": "MAJESTE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191436201025_2_1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt à la grecque Oikos",
+      "price": "0.960",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003803813-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}

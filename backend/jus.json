@@ -1,0 +1,503 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Boisson au jus multi-vitaminée",
+      "price": "0.820",
+      "brand": "TROPICO",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/t/r/tropico.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de poire",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802131.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802094.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de pêche",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802124.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus fruits blancs",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802186.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus nectar tropical",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802179.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de mangue",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802100.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus nectar multivitaminée",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802117.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus mojito",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802162.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus limonade",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/b/o/boisson-au-jus-de-citron-lemonadha.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de raisin",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802902-1_.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'ananas",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534803404.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de pomme",
+      "price": "2.860",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534804265.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de poire",
+      "price": "3.750",
+      "brand": "OH!",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194007892684-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange Bravo",
+      "price": "9.790",
+      "brand": "RAUCH",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/9/0/9008700125130-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de poire",
+      "price": "0.880",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534801820-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de mangue",
+      "price": "0.880",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534801844-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange",
+      "price": "0.880",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534801813-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange",
+      "price": "0.880",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534801851-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus tropical Fruzzy",
+      "price": "0.580",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802674-1_2_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'ananas",
+      "price": "0.930",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194007891786-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus nectar d'orange",
+      "price": "3.520",
+      "brand": "DIVA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194007850066.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus nectar d'ananas",
+      "price": "3.520",
+      "brand": "DIVA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194007850073.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange banane",
+      "price": "3.750",
+      "brand": "OH!",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194007892691-1_1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus pinacolada",
+      "price": "1.270",
+      "brand": "OH!",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191572143555-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus pinacolada",
+      "price": "3.750",
+      "brand": "OH!",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191572143845-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus Bravo",
+      "price": "9.700",
+      "brand": "RAUCH",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/9/0/9008700125147-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus orange",
+      "price": "0.890",
+      "brand": "STIL",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194001801361-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus cocktail",
+      "price": "0.890",
+      "brand": "STIL",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194019803142-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus orange",
+      "price": "3.200",
+      "brand": "STIL",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194001801040.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus cocktail de fruits",
+      "price": "3.200",
+      "brand": "STIL",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194001801057.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus tropical Bnino",
+      "price": "3.290",
+      "brand": "STIL",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194001801200.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de mangue",
+      "price": "3.200",
+      "brand": "STIL",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194001801064.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus cocktail de fruits",
+      "price": "2.900",
+      "brand": "TROPICO",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194007880018-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson instantanée ananas",
+      "price": "0.850",
+      "brand": "FRUIT'O",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191514015605-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson instantanée fraise",
+      "price": "0.850",
+      "brand": "FRUIT'O",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191514015209-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson instantanée pêche",
+      "price": "0.850",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191514015506-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson instantanée cocktail de fruits",
+      "price": "0.850",
+      "brand": "FRUIT'O",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191514018552-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson instantanée mangue",
+      "price": "0.850",
+      "brand": "FRUIT'O",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191514015100-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson instantanée orange",
+      "price": "0.850",
+      "brand": "FRUIT'O",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191514015001-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson instantanée citron",
+      "price": "0.850",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191514015407-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de pêche",
+      "price": "4.950",
+      "brand": "RAUCH",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/9/0/9008700164788-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus menthe citron",
+      "price": "2.990",
+      "brand": "LA FRUITIÈRE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191402602016-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus pomme",
+      "price": "2.990",
+      "brand": "LA FRUITIÈRE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191402602061-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus orange",
+      "price": "2.990",
+      "brand": "LA FRUITIÈRE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191402602030.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus tropical",
+      "price": "2.990",
+      "brand": "LA FRUITIÈRE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191402602023-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange Fruzzy",
+      "price": "0.580",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802667.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange Float",
+      "price": "2.450",
+      "brand": "RANI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6281034016029-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus Cocktail",
+      "price": "4.950",
+      "brand": "STIL",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194001801095.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'ananas",
+      "price": "0.880",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534803411_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus orange",
+      "price": "4.950",
+      "brand": "STIL",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/0/0/000.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Nectar d'orange et d'ananas de 1L",
+      "price": "5.790",
+      "brand": "VITRAC",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6221024240126.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Nectar de goyave de 1L",
+      "price": "5.790",
+      "brand": "VITRAC",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6221024240119png.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Nectar à la mangue de 1L",
+      "price": "5.790",
+      "brand": "VITRAC",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6221024240102_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Nectar d'orange de 1L",
+      "price": "5.790",
+      "brand": "VITRAC",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6221024240126-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Nectar de pomme de 1L",
+      "price": "5.790",
+      "brand": "VITRAC",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6221024240058.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de pêche",
+      "price": "2.990",
+      "brand": "LA FRUITIÈRE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191402602047.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'ananas",
+      "price": "2.990",
+      "brand": "LA FRUITIÈRE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191402602054.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au Jus cocktail exotique relax",
+      "price": "2.850",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534803336.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de pomme confort",
+      "price": "2.850",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534803329.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de mangue",
+      "price": "7.650",
+      "brand": "ALMARAI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6223007520720.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange",
+      "price": "7.650",
+      "brand": "ALMARAI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6223007520751.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de pomme",
+      "price": "7.650",
+      "brand": "ALMARAI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6223007520737.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de mangue",
+      "price": "6.300",
+      "brand": "BEYTI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6223001875802_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange",
+      "price": "5.300",
+      "brand": "BEYTI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6223001875741_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus Relax",
+      "price": "2.920",
+      "brand": "DÉLICE DE FRUITS",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534803633.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange et ananas",
+      "price": "3.990",
+      "brand": "RANI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6130834001875_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus coktail de fruits",
+      "price": "3.990",
+      "brand": "RANI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6130834000700_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus d'orange",
+      "price": "3.990",
+      "brand": "RANI",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6130834000670_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus multifruits",
+      "price": "3.450",
+      "brand": "DIVA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/d/i/diva.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de pomme et myrtilles Nectar",
+      "price": "3.750",
+      "brand": "OH!",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/o/h/oh_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Smoothie healthy rouge",
+      "price": "3.590",
+      "brand": "YOOMY",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191496900449.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Smoothie healthy multi",
+      "price": "3.590",
+      "brand": "YOOMY",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191496900432.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Smoothie healthy vert",
+      "price": "3.590",
+      "brand": "YOOMY",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191496900463.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus Berries",
+      "price": "1.270",
+      "brand": "OH!",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/o/h/oh-c.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus de poire",
+      "price": "1.270",
+      "brand": "OH!",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/o/h/oh-p.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson Au Jus De Banane Orange",
+      "price": "1.270",
+      "brand": "OH!",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/o/h/oh.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson Au Jus De Pomme Diva 1l",
+      "price": "3.420",
+      "brand": "DIVA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/g/r/group-diva-pomme.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson Au Jus De Mangue Oh 1l",
+      "price": "3.750",
+      "brand": "OH!",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194007804748.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus Fruzzy",
+      "price": "0.790",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191534802643-1_1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus nectar",
+      "price": "2.590",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/2/6223007790758_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus banane berries",
+      "price": "0.620",
+      "brand": "TROPICO",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194007804830.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson au jus lime grenadine",
+      "price": "3.190",
+      "brand": "RAOUA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194007804892.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}

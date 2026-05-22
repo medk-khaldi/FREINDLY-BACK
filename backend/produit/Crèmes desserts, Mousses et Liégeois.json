@@ -1,0 +1,149 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Crème dessert Danette praliné aux noisettes",
+      "price": "0.700",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61941731-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert Danette vanille",
+      "price": "0.700",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003801154-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert chocolat Danette",
+      "price": "0.700",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003800676-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de crèmes desserts Danette chocolat",
+      "price": "5.600",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003802342-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de crèmes desserts Danette chocolat & noisettes pralinées",
+      "price": "5.600",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003802670-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de crèmes desserts Dolce Liégeois chocolat Suisse",
+      "price": "6.290",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507250068-1_3.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert flan caramel Danette",
+      "price": "0.810",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61942912_.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert Danette Liégeois chocolat",
+      "price": "0.890",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61943186_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Flan dessert",
+      "price": "0.800",
+      "brand": "YAB",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191503208872.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Mousse au chocolat Plaisir",
+      "price": "0.800",
+      "brand": "YAB",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191503210660_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert Dolce chocolat",
+      "price": "0.780",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61942738.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert Plaisir zgougou",
+      "price": "0.890",
+      "brand": "YAB",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191503207554_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert Dolce zgougou",
+      "price": "0.900",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61944268.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert noisette Dolce",
+      "price": "0.780",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61942899.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert Dolce Duo chocolat noisette",
+      "price": "0.790",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61942752.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert chocolat",
+      "price": "0.790",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61943919.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert noisette",
+      "price": "0.790",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61944664.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert vanille",
+      "price": "0.790",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61944657.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt dessert zgougou",
+      "price": "0.910",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61945043_1_3.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert à boire choco-nuts Plaisir",
+      "price": "1.600",
+      "brand": "YAB",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191503212565.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt chocolat liégeois",
+      "price": "1.010",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61942769.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert montagne de goût chocolat noisette",
+      "price": "0.940",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61943940.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert chocolat liégeois",
+      "price": "0.840",
+      "brand": "YAB",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191503208889.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème dessert Toffee chocolat",
+      "price": "0.890",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61945395.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}

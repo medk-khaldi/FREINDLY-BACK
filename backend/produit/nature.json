@@ -1,0 +1,53 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Yaourt nature",
+      "price": "0.540",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003800317-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de yaourts natures",
+      "price": "6.000",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/m/p/mpk-nature.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt nature",
+      "price": "0.550",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507249383.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt bifi 0% citron",
+      "price": "0.740",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507249864.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de fromages frais Danino nature sucré",
+      "price": "3.420",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61941960-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt bif 0 % aux morceaux de fruits",
+      "price": "0.910",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507249888.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt à boire bifi 0 % fruits des bois",
+      "price": "1.050",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507250259.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt nature nature light",
+      "price": "0.550",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507251096.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Yaourt aromatisé aux fruits avec morceaux de pêches",
+      "price": "0.840",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003803271-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de yaourts aromatisés aux fruits & morceaux de pêche",
+      "price": "6.790",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/m/p/mpk-fruit.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé Activia aux morceaux de pêche",
+      "price": "0.890",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003803318-1_1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de yaourts aromatisés fraise vanille",
+      "price": "6.410",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507249994.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt saveur fraise Maxi",
+      "price": "1.760",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/p/o/pots_natilait_350g_f_1_.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt saveur vanille Maxi",
+      "price": "1.760",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500785.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de yaourts aromatisés Mamzouj fraise & vanille",
+      "price": "3.380",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003804209-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aux morceaux d'ananas",
+      "price": "0.840",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003804360.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé banane",
+      "price": "0.540",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500037-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé vanille",
+      "price": "0.540",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500013.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé fraise",
+      "price": "0.540",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500020.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé noix de coco",
+      "price": "0.540",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500051.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé pêche abricot",
+      "price": "0.540",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500181.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé fruits des bois",
+      "price": "0.540",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500693.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt fruits exotiques",
+      "price": "0.540",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500969.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt étuvé citron",
+      "price": "0.540",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442501102_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé",
+      "price": "0.540",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003800126-1_1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé aux fruits",
+      "price": "0.840",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/2/5/25005865.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Pack de yaourts aromatisés",
+      "price": "6.000",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003802885-1_1_1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt aromatisé",
+      "price": "0.550",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507249444_1_.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Fromage blanc mangue Skyr",
+      "price": "1.250",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/icon-nouveau-nMU.svg"
+    },
+    {
+      "name": "Yaourt nature Skyr",
+      "price": "1.250",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61945760.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt fraise Skyr",
+      "price": "1.250",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/61945784.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt Mix saveur fraise",
+      "price": "1.840",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003804940.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}

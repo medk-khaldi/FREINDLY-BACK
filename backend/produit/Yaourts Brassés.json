@@ -1,0 +1,65 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Pack yaourt brassé",
+      "price": "4.290",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507250785.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt brassé fraise",
+      "price": "0.430",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500099.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt brassé saveur biscuit vanille",
+      "price": "0.430",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500662.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt brassé saveur vanille",
+      "price": "0.430",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191442500082.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt brassé aux fruits secs",
+      "price": "0.870",
+      "brand": "VITALAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507250471.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt brassé aux céréales et aux fruits exotiques Misto",
+      "price": "1.150",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/y/t/yts.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt brassé aux céréales et aux fruits des bois Misto",
+      "price": "1.170",
+      "brand": "NATILAIT",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/m/i/misto.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt brassé Mamzouj",
+      "price": "0.630",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/m/a/mam.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt brassé Blendy",
+      "price": "1.110",
+      "brand": "DÉLICE DANONE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194003804285_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Yaourt brassé",
+      "price": "0.430",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191507249871_1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}

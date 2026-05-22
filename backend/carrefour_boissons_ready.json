@@ -1,0 +1,185 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Eau minérale Délice 1L\nLa bouteille de 1L",
+      "price": "0.700",
+      "brand": "DÉLICE",
+      "imageUrl": "https://www.carrefour.tn/icon-nouveau-nMU.svg"
+    },
+    {
+      "name": "Pack eau minérale CRISTALINE\nLe pack de 6 de 1.5L , 6 ème gratuite",
+      "price": "2.990",
+      "brand": "CRISTALINE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale SAFIA\nLa bouteille de 1.5L",
+      "price": "0.720",
+      "brand": "SAFIA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale AQUALINE\nLa bouteille de 2L",
+      "price": "0.760",
+      "brand": "AQUALINE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale AQUALINE\nLa bouteille de 0.5L",
+      "price": "0.400",
+      "brand": "AQUALINE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale BARGOU\nLa bouteille de 1.5L",
+      "price": "0.610",
+      "brand": "BARGOU",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale AQUALINE\nLa bouteille de 1.5L",
+      "price": "0.660",
+      "brand": "AQUALINE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale CRISTALINE\nLa bouteille de 1.5L",
+      "price": "0.640",
+      "brand": "CRISTALINE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale CRISTALINE\nLa bouteille de 0.5L",
+      "price": "0.420",
+      "brand": "CRISTALINE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale DIMA\nLa bouteille de 1.5L",
+      "price": "0.660",
+      "brand": "DIMA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale DIMA\nLa bouteille de 0.5L",
+      "price": "0.450",
+      "brand": "DIMA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale DIMA\nLa bouteille de 2L",
+      "price": "0.750",
+      "brand": "DIMA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale FOURAT\nLa bouteille de 2L",
+      "price": "0.900",
+      "brand": "FOURAT",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale FOURAT\nLa bouteille de 0.5L",
+      "price": "0.360",
+      "brand": "FOURAT",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale MARWA\nLa bouteille de 0.5L",
+      "price": "0.410",
+      "brand": "MARWA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale JEKTISS\nLa bouteille de 1L",
+      "price": "0.610",
+      "brand": "JEKTISS",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale MARWA\nLa bouteille de 1.5L",
+      "price": "0.640",
+      "brand": "MARWA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale MELLITI\nLa bouteille de 1.5L",
+      "price": "0.640",
+      "brand": "MELLITI",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale MELLITI 0.5L\nLa bouteille de 0.5L",
+      "price": "0.420",
+      "brand": "MELLITI",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale PALMA\nLa bouteille de 0.5L",
+      "price": "0.500",
+      "brand": "PALMA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale PALMA\nLa bouteille de 1.5L",
+      "price": "0.750",
+      "brand": "PALMA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale PRISTINE\nLa bouteille de 0.5L",
+      "price": "0.430",
+      "brand": "PRISTINE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale PRISTINE\nLa bouteille de 1.5L",
+      "price": "0.640",
+      "brand": "PRISTINE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale PRIMAQUA\nLa bombonne de 6L",
+      "price": "2.390",
+      "brand": "PRIMAQUA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale SABRINE\nLa bouteille de 1.5L",
+      "price": "0.700",
+      "brand": "SABRINE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale TIJEN\nLa bouteille de 1.5L",
+      "price": "0.690",
+      "brand": "TIJEN",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale TIJEN\nLa bouteille de 0.5L",
+      "price": "0.460",
+      "brand": "TIJEN",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale PRIMAQUA\nLa bombonne de 19L sans consigne",
+      "price": "5.350",
+      "brand": "PRIMAQUA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale SAFIA\nLa bouteille de 0.5L",
+      "price": "0.410",
+      "brand": "SAFIA",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    },
+    {
+      "name": "Eau minérale DÉLICE\nLa bouteille de 0.5L",
+      "price": "0.510",
+      "brand": "DÉLICE",
+      "imageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc0JyBoZWlnaHQ9JzUnPjxyZWN0IHdpZHRoPSc0JyBoZWlnaHQ9JzUnIHN0eWxlPSdmaWxsOiBub25lJyAvPjwvc3ZnPg=="
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Crème de cuisson",
+      "price": "4.290",
+      "brand": "STREET & CO",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194049404524-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème chantilly spéciale dessert",
+      "price": "25.810",
+      "brand": "PAYSAN BRETON",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/3/4/3412290032291-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème fouettée pâtisserie et cuisine",
+      "price": "46.900",
+      "brand": "PAYSAN BRETON",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/3/4/3412290032567-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème fouettée végétale",
+      "price": "20.000",
+      "brand": "VANOISE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/0/8030141091843-1_1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème fraîche légère semi-épaisse à 15% de matière grasse",
+      "price": "3.160",
+      "brand": "Carrefour",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194043002474_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème de cuisson",
+      "price": "11.200",
+      "brand": "STREET & CO",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6194049404449.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Crème sucrée pour garniture de gâteaux",
+      "price": "7.290",
+      "brand": "GOLDINA",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/6/1/6191402903762.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}

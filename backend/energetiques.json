@@ -1,0 +1,35 @@
+{
+  "rayon": "Boissons",
+  "products": [
+    {
+      "name": "Boisson énergétique Power Horse 25cl",
+      "price": "5.190",
+      "brand": "POWER HORSE",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/9/0/9001372251329-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson énergétique Linx 25cl",
+      "price": "3.830",
+      "brand": "LINX",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/4/8414606719600-1_2.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson énergétique Red Bull 25cl",
+      "price": "5.990",
+      "brand": "RED BULL",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/9/0/90162602-1_8.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson énergétique Shark 25cl",
+      "price": "5.230",
+      "brand": "SHARK",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/8/8851123229494-1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    },
+    {
+      "name": "Boisson énergétique Shark 25cl",
+      "price": "5.230",
+      "brand": "SHARK",
+      "imageUrl": "https://www.carrefour.tn/media/catalog/product/cache/717533d0b1f9b51c7b2a4a186f3847c5/8/8/8851123229883-1_1.webp?auto=webp&format=pjpg&width=840&height=1050&fit=cover"
+    }
+  ]
+}
